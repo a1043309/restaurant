@@ -1,0 +1,70 @@
+.wrap{
+	width: 920px;
+	margin: auto;
+}
+.menu{
+	width: 180px;
+}
+.menu li{
+	float: left;
+	list-style: none;
+}
+.menu li a{
+	display: block;
+	padding: 15px 0;
+	width: 180px;
+	text-decoration: none;
+}
+.menu li a:hover{
+	background: #AA0000;
+	color: white;
+}
+.box{
+	width: 700px;
+	margin-left: auto;
+}
+.box1{
+	float: left;
+	margin: auto; 
+	position: relative;
+}
+.box2{
+	float: left;
+	position: relative;
+}
+.box3{
+	float: left;
+	position: relative;
+}
+.box4{
+	float: left;
+	margin-top: 20px;
+	position: relative;
+}
+.title{
+	font-size: 20px;
+	text-align: center;
+	margin: 10px auto;
+}
+.vicetitle{
+	font-size: 15px;
+	text-align: center;
+}
+.add{
+	border: 3px solid orange;
+	color: orange;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+}
+.add:hover{
+	background: orange;
+	color: white;
+
+}
+.heart{
+	position: absolute;
+	left: 5px;
+	top: 5px;
+}
